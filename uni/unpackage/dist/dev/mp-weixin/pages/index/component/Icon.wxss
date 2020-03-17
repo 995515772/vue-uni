@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon.data-v-754d00a7 {
+		margin-top: 60rpx;
+}
+	
+.scroll-view.data-v-754d00a7 {
+	width: 750rpx;
+	white-space: nowrap;
+}
+.scroll-view .scrollyi.data-v-754d00a7 {
+	display: inline-block;
+	width: 187.5rpx;
+	height: 420rpx;
+	box-sizing: border-box;
+}
+.scroller.data-v-754d00a7 {
+	width: 187.5rpx;
+	box-sizing: border-box;
+	height: 50%;
+}
+.scroller image.data-v-754d00a7 {
+	width: 150rpx;
+	margin-left: 50%;
+	-webkit-transform: translateX(-50%);
+	        transform: translateX(-50%);
+	height: 74%;
+}
+.scroller view.data-v-754d00a7 {
+	text-align: center;
+	font-size: 26rpx;
+}
+

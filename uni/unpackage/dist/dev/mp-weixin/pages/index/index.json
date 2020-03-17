@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "sousuo": "/pages/index/component/Sousuo",
+    "swiper": "/pages/index/component/Swiper",
+    "icon": "/pages/index/component/Icon",
+    "dianpu": "/pages/index/component/Dianpu"
+  }
+}

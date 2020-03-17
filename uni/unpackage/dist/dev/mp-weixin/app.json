@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/index",
+    "pages/cart/index",
+    "pages/my/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "天猫国际",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/image/index.png",
+        "selectedIconPath": "static/image/indexs.png"
+      },
+      {
+        "pagePath": "pages/list/index",
+        "text": "分类",
+        "iconPath": "static/image/list.png",
+        "selectedIconPath": "static/image/lists.png"
+      },
+      {
+        "pagePath": "pages/cart/index",
+        "text": "购物车",
+        "iconPath": "static/image/cart.png",
+        "selectedIconPath": "static/image/carts.png"
+      },
+      {
+        "pagePath": "pages/my/index",
+        "text": "我的",
+        "iconPath": "static/image/my.png",
+        "selectedIconPath": "static/image/mys.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,1 @@
+<view class="content"><sousuo vue-id="1" bind:__l="__l"></sousuo><swiper></swiper><icon></icon><dianpu vue-id="2" bind:__l="__l"></dianpu></view>
